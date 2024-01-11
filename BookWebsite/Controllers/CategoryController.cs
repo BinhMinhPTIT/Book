@@ -1,8 +1,8 @@
-﻿using BookWebsite.Data;
-using BookWebsite.Models;
+﻿using Book.DataAccess.Data;
+using Book.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace BookWebsite.Controllers
+namespace Book.Controllers
 {
     public class CategoryController : Controller
     {
